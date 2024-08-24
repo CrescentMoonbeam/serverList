@@ -1,1 +1,1 @@
-wss://eastnarhythmicbombin.onrender.com,wss://eurhythmicbombinserver.onrender.com
+wss://eastnarhythmicbombin.onrender.com,wss://westnarhythmicbombin.onrender.com,wss://eurhythmicbombinserver.onrender.com
